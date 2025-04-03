@@ -20,7 +20,7 @@ This project aims to detect fake profiles across social networks using **Machine
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/Ujjwal1563/Fake_Profile_Identification.git
 cd fake-profile-identification
 ```
 
