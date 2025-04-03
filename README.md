@@ -65,10 +65,7 @@ Or open `http://127.0.0.1:8000/docs` for interactive API documentation.
 
 ---
 
-## 📷 Screenshots
-![Graph Visualization](https://via.placeholder.com/600x300)
 
----
 
 ## 📜 License
 This project is licensed under the MIT License.
